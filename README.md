@@ -42,3 +42,4 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Team Lead, PM | Character Designer | UIUX, Developer | Developer | Developer | Planning | Developer |
 안녕하세요 서지오입니다.
+안녕하세요 서지옹빈디ㅏ. 1
