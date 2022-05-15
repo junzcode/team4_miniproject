@@ -26,6 +26,4 @@
 
 |고도희|김다은|김재우|김희원|서지오|이준서|정채빈
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Team Lead, PM | Character Designer | UIUX, Developer | Developer | Developer | Planning | Developer
-|<img src="https://avatars.githubusercontent.com/u/60145951?v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/81296203?v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/75518683?v=4" height=100/>|
-|[@4923](https://github.com/4923)|[@JungWooJin97](https://github.com/JungWooJin97)|[@Parkjju](https://github.com/Parkjju)
+| Team Lead, PM | Character Designer | UIUX, Developer | Developer | Developer | Planning | Developer |
