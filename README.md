@@ -43,3 +43,4 @@
 | Team Lead, PM | Character Designer | UIUX, Developer | Developer | Developer | Planning | Developer |
 |서비스를 설계하는 개발자가 되고 싶은 고도희입니다. |
 |금융관련 백엔드 개발자가 되고 싶은 서지오입니다. |
+|기획을 담당한 준서입니다!|
