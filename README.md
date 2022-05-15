@@ -1,4 +1,4 @@
-# team4_miniproject 스터디4팀 미니프로젝트: "들어봤니 모현의 숲"
+# team4_miniproject 스터디4팀 미니프로젝트는 "들어봤니 모현의 숲"
 
 <div align="center">
 
@@ -40,3 +40,4 @@
 |고도희|김다은|김재우|김희원|서지오|이준서|정채빈
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Team Lead, PM | Character Designer | UIUX, Developer | Developer | Developer | Planning | Developer |
+안녕하세요 서지오입니다.
